@@ -27,11 +27,9 @@
   <img src="https://img.shields.io/badge/Tools-Visual_Studio_Code-%23007ACC?style=flat-square&logo=visual-studio-code">
 </p>
 
-## 📚 Featured Projects
+## 🔭 I’m currently working on Software Developer 
 
-<!-- - [SAAS Diet App](https://saas-diet.vercel.app/Compare): SAAS Diet is a powerful app that tracks cloud storage spendings and suggests cost-effective alternatives, empowering users to save money and optimize resource allocation.
-- [Shopping Cart Project](https://shopping-cart-js-project.vercel.app/): A Vanilla Javascript Shopping Cart Project where users can view products, add them to cart, and checkout. The main priority of the project was data structure and DOM manipulation.
-- [Shopping Cart Project](https://rick-morty-wiki-project.vercel.app): A Vanilla Javascript Shopping Cart Project where users can view products, add them to cart, and checkout. The main priority of the project was data structure and DOM manipulation. -->
+## 🌱 I’m currently learning about technology and sometimes about psychology and business strategic
 
 ## 📫 Get in Touch
 
