@@ -34,9 +34,10 @@
 ## 📫 Get in Touch
 
 - [LinkedIn](https://www.linkedin.com/in/thomas-gunawan-18a525272/)
+<!--
 - [Website](https://thmsgnwn.github.io/calculator/)
 
-<!--
+
 **thmsgnwn/thmsgnwn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
