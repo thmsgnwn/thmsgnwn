@@ -7,7 +7,7 @@
   </a>
 </p>
 
-<p align="center">Welcome to my GitHub profile! I'm Thomas Gunawan, a Fresh Graduate Computer Science passionate about JavaScript and PHP.</p>
+<p align="center">Welcome to my GitHub profile! I'm Thomas Gunawan, a Fresh Graduate Informatics and Computer Engineering Education as Computer Science passionate about JavaScript and PHP.</p>
 
 ## 🚀 Skills
 
