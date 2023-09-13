@@ -29,9 +29,9 @@
 
 ## 🔭 I’m currently working on Software Developer 
 
-## 🌱 I’m currently learning about technology and sometimes about psychology and business strategic
-
 ## 💬💬💬
+
+## 🌱 I’m currently learning about technology and sometimes about psychology and business strategic
 
 ## 📫 Get in Touch
 
