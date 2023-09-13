@@ -31,6 +31,8 @@
 
 ## 🌱 I’m currently learning about technology and sometimes about psychology and business strategic
 
+## 💬💬💬
+
 ## 📫 Get in Touch
 
 - [LinkedIn](https://www.linkedin.com/in/thomas-gunawan-18a525272/)
