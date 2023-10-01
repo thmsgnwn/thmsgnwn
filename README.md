@@ -29,7 +29,7 @@
 
 ## 🔭 I’m currently working on Software Developer 
 
-## 💬💬💬
+## 💬💬💬  <img src="https://komarev.com/ghpvc/?username=thmsgnwn" alt="thmsgnwn"/>
 
 ## 🌱 I’m currently learning about technology and sometimes about psychology and business strategic
 
