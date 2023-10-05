@@ -31,13 +31,21 @@
 
 ## 💬  <img src="https://komarev.com/ghpvc/?username=thmsgnwn" alt="thmsgnwn"/>
 
+![https://github-readme-stats.vercel.app/api?username=thmsgnwn&hide=contribs,prs,issues](https://github-readme-stats.vercel.app/api?username=thmsgnwn&hide=contribs,prs,issues)
+
+
+
 ## 🌱 I’m currently learning about technology and sometimes about psychology and business strategic
 
 ## 📫 Get in Touch
 
 - [LinkedIn](https://www.linkedin.com/in/thomas-gunawan-18a525272/)
+
+
+
 <!--
 - [Website](https://thmsgnwn.github.io/calculator/)
+
 
 
 **thmsgnwn/thmsgnwn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
