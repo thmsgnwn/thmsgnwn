@@ -27,7 +27,9 @@
   <img src="https://img.shields.io/badge/Tools-Visual_Studio_Code-%23007ACC?style=flat-square&logo=visual-studio-code">
 </p>
 
-## 🔭 I’m currently working on Software Developer 
+
+## 🔭 I’m currently working on Software Development Engineer 
+
 
 ## 💬  <img src="https://komarev.com/ghpvc/?username=thmsgnwn" alt="thmsgnwn"/>
 
