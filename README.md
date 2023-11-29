@@ -27,8 +27,17 @@
   <img src="https://img.shields.io/badge/Tools-Visual_Studio_Code-%23007ACC?style=flat-square&logo=visual-studio-code">
 </p>
 
-
 ## 🔭 I’m currently working on Software Development Engineer 
+
+## 📫 Get in Touch
+
+- [LinkedIn]()
+- [Portfolio]()
+
+<!--
+
+## 🌱 I’m currently learning about technology and sometimes about psychology and business strategic
+
 
 
 ## 💬  <img src="https://komarev.com/ghpvc/?username=thmsgnwn" alt="thmsgnwn"/>
@@ -36,13 +45,6 @@
 ![https://github-readme-stats.vercel.app/api?username=thmsgnwn&hide=contribs,prs,issues](https://github-readme-stats.vercel.app/api?username=thmsgnwn&hide=contribs,prs,issues)
 
 
-
-## 🌱 I’m currently learning about technology and sometimes about psychology and business strategic
-
-<!--
-## 📫 Get in Touch
-
-- [LinkedIn]()
 
 
 - [Website](https://thmsgnwn.github.io/calculator/)
